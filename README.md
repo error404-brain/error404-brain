@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hi 👋, I'm Hưng Võ</h1>
+<h1 align="center">Hi 👋, I'm Hưng Võ</h1>
 <h3 align="center">Currently, I am a student at an anonymous university I am passionate about coding, as well as wanting to learn more about knowledge</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/error404-brain](https://github.com/error404-brain)
